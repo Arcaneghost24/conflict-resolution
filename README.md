@@ -7,3 +7,7 @@ All of this content added to the readme file has been added from my remote GitHu
 
 ## Reattempt
 Attempt 2 at making conflict in the git pull function
+
+## A different attempt at updating the Git repo locally
+
+Hopefully this makes conflict
